@@ -1,6 +1,4 @@
 # Hello 👋
 
-- I'm majoring for Computer Engineering at [Federal University of Sergipe](https://ufs.br).
-- I'm interested in Artificial Intelligence, Computer Graphics and Game Development.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusqua&layout=compact)
+- I'm majoring in Computer Engineering at the [Federal University of Sergipe](https://ufs.br).
+- I'm interested in Parallel Computing, Computer Graphics and Game Development.
